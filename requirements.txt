@@ -2,4 +2,4 @@ pandas
 streamlit
 altair
 matplotlib
-pickle
+pickle-mixin
